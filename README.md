@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brett Hammit
-- 👀 I’m interested in Python Programming and Data Science
-- 🌱 I’m currently learning Machine Learning 
-- 💞️ I’m looking to collaborate on anything
+-  I’m interested in Python Programming and Data Science
+-  I’m currently learning Machine Learning 
+-  I’m looking to collaborate on anything
 - 📫 How to reach me is my email: bhammit21@gmail.com
 
 <!---
