@@ -1,6 +1,6 @@
 -  My name is Brett Hammit!
 -  I’m interested in Python Programming and Data Science
--  I’m currently learning Deep Learning and advanced Statistics
+-  I’m currently learning Deep Learning and Advanced Statistics
 -  You can reach me at my email at: bhammit21@gmail.com
 
 <!---
