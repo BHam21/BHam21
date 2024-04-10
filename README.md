@@ -1,7 +1,4 @@
--  My name is Brett Hammit!
--  I’m interested in Python Programming and Data Science
--  I’m currently learning Deep Learning and Advanced Statistics
--  You can reach me at my email at: bhammit21@gmail.com
+-  Data Scientist @ YUM! Brands
 
 <!---
 BHam21/BHam21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
